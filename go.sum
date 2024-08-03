@@ -1,0 +1,4 @@
+github.com/hashicorp/vault v1.17.2 h1:WY8qyQ87MWJ+S+Q/TEC12qjhgixOlVr6KJNg2gWzLN4=
+github.com/hashicorp/vault v1.17.2/go.mod h1:E8Rc9zXki1gfsPX7nF275hSpQQ0asWvGVzylaWUIoYQ=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
